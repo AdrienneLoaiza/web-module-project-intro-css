@@ -1,0 +1,168 @@
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+    max-width:100%;
+    border:0px solid grey;
+  }
+
+  a{
+    text-align: center;
+  }
+
+  .top{
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+    margin-left: 15%;
+    margin-bottom: 50px;
+    position: absolute;
+    margin-top:3%;
+  }
+
+  p{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+  }
+  
+  h1{
+    font-family: 'Chelsea Market', regular;
+    font-size: 72px;
+  }
+
+  nav a { display: inline-block;
+    padding: 10px;
+    background-color: #dddddd;
+    margin-left: 20px;
+  }
+
+  .button1{
+    text-align: center;
+    border-radius: 15px;
+    background: #FF764E;
+    padding: 25px;
+    margin: 2%;
+    margin-left: 18%;
+    color:white;
+    text-decoration: none;
+    width:10%;
+    }
+    
+
+  .button2{
+    border-radius: 15px;
+    padding: 25px;
+    background-color:#5ED3EB;
+    margin: 2%;
+    margin-left: 18%;
+    color:white;
+    text-decoration: none;
+}
+
+.button3{
+  border-radius: 15px;
+  padding: 25px;
+  background-color:#FFCD69;
+  margin: 2%;
+  margin-left: 20%;
+  color:white;
+  text-decoration: none;
+  width:10%;
+}
+
+.title-container{
+  display:inline-block;
+  margin:0 auto;
+}
+
+.mountain{
+  border-radius: 50%;
+  width: 20%;
+  height:20%;
+  margin-left:5%;
+  display: inline-block;
+  margin-top: 30px;
+  padding-bottom:2%;
+}
+
+.fire{
+  width: 15%;
+  height:15%;
+  margin-left:45%;
+}
+
+.bus{
+  width: 15%;
+  height:15%;
+  margin-left:45%;
+}
+
+.view{
+  height:200px;
+  width: 100%;
+}
+
+.Yose{
+    display: inline-block;
+    padding:2%;
+
+}
+
+.Yosetext1{
+  display: inline-block;
+    margin: 3%;
+}
+
+.Yosetext2{
+  display: inline-block;
+    margin: 0 auto;
+}
+
+.title{
+    padding-left:60%;
+}
+
+div .text{
+  color: white;
+  background-color:rgb(221, 203, 182);
+  height: 215px;
+}
+.header-links{
+  background-color: rgb(221, 203, 182);
+}
+.container2{
+  width:50%;
+  margin-left: 25%;
+}
+
+.text{
+  width: 96%;
+  margin-left: 2%;
+}
+
+.container2 p{
+  width: 50%;
+  margin-left: 27%;
+  height: 10%;
+  text-align:center;
+}
+
+#text{
+  height:10%
+}
+
+span{
+  font-weight: bold;
+}
+.text p{
+  padding-top:3%
+}
+
+#about{
+  margin: 1%;
+    width: 100%;
+}
+
+#park-info{
+  margin:3%;
+}
